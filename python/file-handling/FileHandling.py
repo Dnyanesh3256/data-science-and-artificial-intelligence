@@ -17,4 +17,3 @@ newFile = open(r"D:\data-science-and-artificial-intelligence\python\file-handlin
 newFile.write("hello this is test2")
 
 newFile.close()
-
