@@ -3,7 +3,6 @@ import os
 
 def readfileandfolder():
     path = Path(__file__).parent
-    items = list(path.rglob("*"))
 
     for i, file in enumerate(path.iterdir(), start=1):
         if file.is_file():

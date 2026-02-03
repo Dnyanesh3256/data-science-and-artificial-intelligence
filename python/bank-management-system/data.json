@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Dnyaneshwar",
+    "age": 21,
+    "email": "dbtupe3256@gmail.com",
+    "pin": 3256,
+    "account-no": "1234",
+    "balance": 0
+  },
+  {
+    "name": "Harsh Rathod",
+    "age": 25,
+    "email": "harsh56@gmail.com",
+    "pin": 5632,
+    "account-no": "12g^De4",
+    "balance": 10000
+  }
+]
